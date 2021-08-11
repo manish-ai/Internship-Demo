@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": "01",
+            "title": "Chilli Flakes",
+            "type": "fruit",
+            "description": "Sweet fresh stawberry on the wooden table",
+            "filename": "Assets/Images/1.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 29.45,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "02",
+            "title": "Coriander Seeds",
+            "type": "vegetable",
+            "description": "Asparagus with ham on the wooden table",
+            "filename": "Assets/Images/2.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 18.95,
+            "rating": 3,
+            "cartButton": true
+        },
+        {
+            "id": "03",
+            "title": "Jeera",
+            "type": "dairy",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "filename": "Assets/Images/3.jpg",
+            "height": 600,
+            "width": 399,
+            "price": 17.68,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "04",
+            "title": "Oregano",
+            "type": "vegetable",
+            "description": "Raw legums on the wooden table",
+            "filename": "Assets/Images/4.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 17.11,
+            "rating": 2,
+            "cartButton": true
+        },
+        {
+            "id": "05",
+            "title": "Chilli Flakes",
+            "type": "fruit",
+            "description": "Sweet fresh stawberry on the wooden table",
+            "filename": "Assets/Images/1.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 29.45,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "06",
+            "title": "White Pepper",
+            "type": "dairy",
+            "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+            "filename": "Assets/Images/5.jpg",
+            "height": 450,
+            "width": 675,
+            "price": 11.14,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "07",
+            "title": "Coriander Seeds",
+            "type": "vegetable",
+            "description": "Asparagus with ham on the wooden table",
+            "filename": "Assets/Images/2.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 18.95,
+            "rating": 3,
+            "cartButton": true
+        },
+        {
+            "id": "08",
+            "title": "Jeera",
+            "type": "dairy",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "filename": "Assets/Images/3.jpg",
+            "height": 600,
+            "width": 399,
+            "price": 17.68,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "09",
+            "title": "White Pepper",
+            "type": "dairy",
+            "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+            "filename": "Assets/Images/5.jpg",
+            "height": 450,
+            "width": 675,
+            "price": 11.14,
+            "rating": 4,
+            "cartButton": true
+        },
+        {
+            "id": "10",
+            "title": "Oregano",
+            "type": "vegetable",
+            "description": "Raw legums on the wooden table",
+            "filename": "Assets/Images/4.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 17.11,
+            "rating": 2,
+            "cartButton": true
+        }
+    ]
+}

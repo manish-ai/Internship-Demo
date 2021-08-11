@@ -1,0 +1,188 @@
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+.land-grid .land-description {
+    padding: 5px 10px;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    text-align: center;
+}
+.land-grid .land-description h3 {
+    margin: 0;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 14px;
+    color: #000000;
+    font-weight: 500;
+}
+.land-grid .land-description h3 Link.productTitle {
+    color: #000 !important; 
+    margin: 0;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 14px;
+    color: #000000;
+    font-weight: 500;
+}
+.productTitle{
+    color: #000 !important; 
+    margin: 0;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 15.5px;
+    font-weight: 600;
+    letter-spacing:0.3px;
+
+}
+.land-grid .land-description h3 Link.productTitle:hover {
+    color: #E68C45 !important;
+}
+.land-grid:hover .land-description h3 Link.productTitle {
+    color: #E68C45 !important;
+}
+.land-grid .land-description .price {
+    margin-bottom: 0;
+    margin: 0 0 5px;
+    padding: 0;
+    font-size: 13px;
+    font-weight: 500;
+}
+.land-grid .land-description .regular-price {
+    color: #808080;
+    margin-right: 10px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 13px;
+}
+.land-grid .land-description .offer-price {
+    font-size: 13px;
+    color: #000000;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.line-through {
+    text-decoration: line-through;
+}
+.left-align {
+    position: absolute;
+    left: auto;
+    right: 0;
+}
+.label-offer {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 25px;
+    line-height: 25px;
+    display: inline-block;
+    padding: 0px 12px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    z-index: 1;
+}
+.bg-theme {
+    background-color: #03a9f5;
+}
+.land-buttons ul {
+    text-align: center
+}
+.land-buttons ul {
+    margin-bottom: 0;
+}
+.land-buttons ul {
+    padding-inline-start: 0px !important;
+}
+.land-buttons ul li {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.land-buttons .btn-link {
+    line-height: 38px;
+    padding: 0 13px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.125);
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    color: #616161 !important;
+    outline: 0;
+}
+.land-buttons .btn-link-sign {
+    line-height: 38px;
+    padding: 0 8px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.125);
+    text-align: center;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    color: #000 !important;
+    background: transparent;
+    outline: 0;
+}
+.land-buttons .btn-link-sign:hover {
+    border: 1px solid #E68C45;
+    background: #E68C45;
+    color: #fff !important;
+}
+.form-control-number {
+    line-height: 38px;
+    padding: 0 5px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.125);
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000 !important;
+    width: 60px;
+}
+.land-buttons .btn-link:hover {
+    border: 1px solid #E68C45;
+    background: #E68C45;
+    color: #fff !important;
+}
+.butn-style2 {
+    line-height: 38px;
+    padding: 0 13px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.125);
+    text-align: center;
+    
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000 !important;
+    outline: 0;
+    opacity: 0.6;
+}
+.land-buttons .butn-style2 {
+}
+.land-buttons .butn-style2:hover {
+    color: #fff !important;
+    background: #E68C45;
+    border-color: #E68C45;
+    opacity: 1;
+}
+
+.bg-red {
+    background-color: #ed1b24;
+}
